@@ -1,2 +1,2 @@
 # Jokenpo
-Jogo simples de C++
+Jogo simples de C++ com fins de estudos
